@@ -90,14 +90,6 @@ These findings help paint a data-driven picture of how economic issues are commu
 
 ---
 
-## Future Improvements
-
-- **Temporal sentiment analysis**: Observe how sentiment changes year-over-year
-- **Named Entity Recognition (NER)**: Track companies, politicians, and keywords influencing sentiment
-- **Topic modeling**: Cluster articles into topics using LDA or BERTopic
-- **Interactive Dashboard**: Create a Streamlit or Dash app for dynamic data exploration
-
----
 
 
 
